@@ -14,4 +14,5 @@ O site utiliza a seguinte API: https://guilhermeonrails.github.io/casadocodigo/l
 Alura, css da aplicação 
 
 ## Like para o site
-[-> Link <-](https://site-de-livros-de-programacao.vercel.app)
+[-> Link <-](https://site-de-livros-de-programacao-git-main-deividxupon.vercel.app)
+
